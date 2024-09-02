@@ -1,5 +1,9 @@
 # FW-Tugas
 
+Tugas
+
+[x] **Pertemuan 2 :** Penjumlahan Pada Routing
+
 ## Nama Lengkap
 **Heru Triana**
 
